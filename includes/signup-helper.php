@@ -12,7 +12,7 @@ if(isset($_POST['signup-submit'])){
 
     if($password !== $pass_rep){
         header("Location: ../signup.php?error=diffPasswords&fname=".$fname."&lname=".$lname."&uname=".$username);
-        exit();
+        exit(); 
     }
     else{
         $sql = "SELECT uname FROM users WHERE uname=?";
