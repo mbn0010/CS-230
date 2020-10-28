@@ -8,7 +8,10 @@ require 'includes/header.php'
             <p>Our team is made up of some of the top alcohol reviewers the United States has ever seen. </p>
 
         </div>
-        <button class="button" onclick="location.href='https://preventionlane.org/young-adults-alcohol-safe-drinking-tips'">Click here for information about alcohol safety</button>
+        <div class="b">
+
+            <button class="button" onclick="location.href='https://preventionlane.org/young-adults-alcohol-safe-drinking-tips'">Click here for information about alcohol safety</button>
+        </div>
         <div class="row">
 
             <div class="column">
