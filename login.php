@@ -48,6 +48,7 @@ require 'includes/header.php'
                             </label>
                         </div>
                         <button class="btn btn-lg btn-primary btn-block" name="login-submit" type="submit">Sign in</button>
+                        <div class="text-center">Don't have an account? <a href="signup.php">Create account</a></div>
                         <p class="mt-5 mb-3 text-muted">&copy; 2020-2021</p>
                         <div class="photo">
                             <img src="../images/rainbow.jpg" width="300" height="80">
