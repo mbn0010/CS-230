@@ -4,7 +4,7 @@ require 'includes/header.php'
 <main>
 <link rel="stylesheet" href="css/about.css">
         <div class="about">
-            <h1>About Us</h1>
+            <h1 style="font-weight: bold">About Us</h1>
             <p>Our team is made up of some of the top alcohol reviewers the United States has ever seen. </p>
 
         </div>

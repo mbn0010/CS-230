@@ -3,24 +3,27 @@ body {
 }
 
 p{
-    color:rgb(57, 64, 50);
+    color:black;
   
 }
 .about{
-    background:rgb(88, 123, 127);
-    color: rgb(30, 32, 25);
+    
+    background:rgb(200,134,145);
+    color:black;
     padding: 8px;
 }
 img{
+    
     height: 100px;
     width: 100px;
  
 }
 .b{
-    background-color: rgb(57, 64, 50);
+    background-color:rgb(200,134,145);
+    
 }
 .row{
-    background-color: rgb(57, 64, 50);
+    background-color:white;
 }
 .column{
     float: left;
@@ -29,15 +32,16 @@ img{
      width:23%;
 }
 .card{
-    background-color: rgb(141, 171, 127);
+    background-color:rgb(200,134,145);
     box-shadow: 0px 4px 8px 0 gray;
     padding: 0 16px 0 16px;
 }
 .button{
-    background-color: rgb(141, 171, 127);
-    border:gray;
+    background-color:white;
+    border:white;
     padding: 10px 10px;
     text-align: center;
     font-size: 14px;
     margin: 4px 2px;
+    border-radius: px;
 }
