@@ -18,7 +18,7 @@ require 'includes/dbhandler.php';
         .center-me {
             display: flex;
             justify-content: center;
-            padding: 40px;
+            padding: 30px;
             text-align: "center";
         }
         #prof-display {

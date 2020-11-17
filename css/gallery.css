@@ -1,13 +1,15 @@
 h1 {
     text-align: center; 
+    background-color: rgb(108,164,216);
+    padding: 10px;
 }
 
 h3{
-   color: goldenrod;
+   color: black;
 }
 
 p{
-     color: gray;
+     color: darkslategray;
 }
 
 img{
@@ -17,6 +19,7 @@ img{
 }
 
 .gallery-container{
+    
    text-align: center;
    display: flex;
    flex-direction: row;
@@ -33,13 +36,12 @@ img{
   padding: 5px;
 }
 .gallery-container a{
-    background-color: black;
+    background-color: rgb(108,164,216);
     background-position: center;
     background-size: cover;
-
 }
 
 .gallery-container a:hover{
     opacity:80%;
-    text-decoration-color: goldenrod;
+    text-decoration-color: gray;
 }

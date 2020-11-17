@@ -49,7 +49,7 @@ if(isset($_POST['signup-submit'])){
                     $sqling = "INSERT INTO profile (uname) VALUES ('$username')"; 
                     mysqli_query($conn, $sqling);
                      
-                    header("Location: ../Signup.php?signup=success");
+                    header("Location: ../login.php?signup=success");
                     exit();
                 }
             }

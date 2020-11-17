@@ -1,5 +1,5 @@
 .bg-cover{
-    background: gray;
+    background-image: url("../images/blue.jpg");
     height: 100vh; 
     background-position: center;
     background-size: cover; 
@@ -8,15 +8,16 @@
 .center-me{
     display: flex;
     justify-content: center;
-    padding: 40px;
+    padding: 30px;
 }
 
 .form-signin{
-    padding: 30px;
+    padding: 20px;
     text-align: center;
 }
 
 input{
     margin-bottom: 10px;
 }
+
 
