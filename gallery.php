@@ -24,7 +24,7 @@ require 'includes/header.php';
                 {
                     echo '<div class="card">
                         <a href = "review.php?id='.$row['pid'].'">
-                            <img src="http://localhost/cs230/booze/'.$row['picpath'].'">
+                            <img src="http://54.145.228.74/cs230/booze/'.$row['picpath'].'">
                             <h3>'.$row["title"].'</h3>
                             <p>'.$row["descript"].'</p>
                         </a>
