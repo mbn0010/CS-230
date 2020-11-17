@@ -8,22 +8,22 @@ p{
 }
 .about{
     
-    background:rgb(200,134,145);
-    color:black;
+    background: maroon;
+    color:white;
     padding: 8px;
 }
 img{
     
     height: 100px;
     width: 100px;
- 
+    align-content: center;
 }
 .b{
     background-color:rgb(200,134,145);
     
 }
 .row{
-    background-color:white;
+    background-color:rgb(200,134,145);
 }
 .column{
     float: left;
@@ -32,16 +32,17 @@ img{
      width:23%;
 }
 .card{
-    background-color:rgb(200,134,145);
+    background-color:white;
     box-shadow: 0px 4px 8px 0 gray;
     padding: 0 16px 0 16px;
 }
 .button{
     background-color:white;
     border:white;
+    font-weight: bolder;
     padding: 10px 10px;
     text-align: center;
     font-size: 14px;
     margin: 4px 2px;
-    border-radius: px;
+    border-radius: 6px;
 }
