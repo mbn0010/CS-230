@@ -11,8 +11,8 @@ p{
 }
 
 img{
-    max-width: 220px;
-    max-height: 220px;
+    max-width: 600px;
+    max-height: 400px;
     margin-top: 10px;
 }
 
@@ -31,8 +31,6 @@ img{
   max-width: 280px;
   height: auto;
   padding: 5px;
-
-
 }
 .gallery-container a{
     background-color: black;
