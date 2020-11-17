@@ -24,14 +24,14 @@ require 'includes/header.php';
                 {
                     echo '<div class="card">
                         <a href = "review.php?id='.$row['pid'].'">
-                            <img src="'.$row['picpath'].'">
+                            <img src= booze/'.$row['picpath'].'>
                             <h3>'.$row["title"].'</h3>
                             <p>'.$row["descript"].'</p>
                         </a>
                     </div>';
                 }
             }
-        ?>
+        ?> 
     </div>
 
 </main>
