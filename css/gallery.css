@@ -28,6 +28,7 @@ img{
 }
 
 .card {
+    background-color: rgb(108,164,216);
   border-radius: 10px;
   margin: 10px;
   width: 20%;
